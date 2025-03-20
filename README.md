@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9d36ea&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9d36ea&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ana+Luiza;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9d36ea&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ana+Luiza;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AnaLuiza&show_icons=true&count_private=true&hide_border=true&title_color=9d36ea&icon_color=9d36ea&text_color=c9d1d9&bg_color=0d1117&count_private=true&stars=42&repos=67" alt="Ana Luiza github stats"/> 
